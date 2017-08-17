@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 66b1168bdcf0a8b4d958c48063eaf6de
+timeCreated: 1496914434
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone004
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Bone014
+    100026: Bone015
+    100028: Bone016
+    100030: Bone017
+    100032: Bone018
+    100034: Bone019
+    100036: Bone020
+    100038: Bone021
+    100040: Bone022
+    100042: Bone023
+    100044: Bone024
+    100046: Bone025
+    100048: Bone026
+    100050: Bone027
+    100052: Bone028
+    100054: Bone029
+    100056: Bone030
+    100058: Bone031
+    100060: Bone032
+    100062: Bone033
+    100064: Bone034
+    100066: Bone035
+    100068: Bone036
+    100070: Bone037
+    100072: Bone038
+    100074: Bone039
+    100076: Bone040
+    100078: Bone041
+    100080: Bone042
+    100082: Bone043
+    100084: Bone044
+    100086: Bone045
+    100088: Bone046
+    100090: Bone047
+    100092: Circle001
+    100094: Circle002
+    100096: Circle003
+    100098: Circle004
+    100100: Circle005
+    100102: Circle006
+    100104: Circle007
+    100106: Circle008
+    100108: Circle009
+    100110: Circle010
+    100112: Circle011
+    100114: Circle012
+    100116: Circle013
+    100118: Circle014
+    100120: Circle015
+    100122: Circle016
+    100124: Circle017
+    100126: //RootNode
+    100128: Star001
+    100130: Tachikoma
+    400000: Bone002
+    400002: Bone003
+    400004: Bone004
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Bone014
+    400026: Bone015
+    400028: Bone016
+    400030: Bone017
+    400032: Bone018
+    400034: Bone019
+    400036: Bone020
+    400038: Bone021
+    400040: Bone022
+    400042: Bone023
+    400044: Bone024
+    400046: Bone025
+    400048: Bone026
+    400050: Bone027
+    400052: Bone028
+    400054: Bone029
+    400056: Bone030
+    400058: Bone031
+    400060: Bone032
+    400062: Bone033
+    400064: Bone034
+    400066: Bone035
+    400068: Bone036
+    400070: Bone037
+    400072: Bone038
+    400074: Bone039
+    400076: Bone040
+    400078: Bone041
+    400080: Bone042
+    400082: Bone043
+    400084: Bone044
+    400086: Bone045
+    400088: Bone046
+    400090: Bone047
+    400092: Circle001
+    400094: Circle002
+    400096: Circle003
+    400098: Circle004
+    400100: Circle005
+    400102: Circle006
+    400104: Circle007
+    400106: Circle008
+    400108: Circle009
+    400110: Circle010
+    400112: Circle011
+    400114: Circle012
+    400116: Circle013
+    400118: Circle014
+    400120: Circle015
+    400122: Circle016
+    400124: Circle017
+    400126: //RootNode
+    400128: Star001
+    400130: Tachikoma
+    4300000: Tachikoma
+    9500000: //RootNode
+    13700000: Tachikoma
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

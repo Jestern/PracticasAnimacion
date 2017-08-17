@@ -1,0 +1,6 @@
+Para ambas animaciones se puede ver que el método de cinemática directa 
+es la que consigue mejores resultados, esto se debe a que se pueden limpiar
+mejor los movimentos que realiza la mano y el brazo. Podemos poner cada 
+parte de la articulación en la posición que mejor se vea. Sin embargo
+la cinematica inversa es muy útil si se combina con la directa para 
+poder limpiar el movimiento que se prototipa con la cinematica inversa.

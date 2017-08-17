@@ -1,0 +1,30 @@
+partir de los conceptos vistos en clase y de los tutoriales enlazados en el tema 5, construir un rig sencillo que permita controlar la animación de alguno de estos modelos:
+1. Robot de 2, 4 o 6 patas.
+
+
+
+2. Grua de puerto o grua de construcción.
+
+
+
+3. Excavadora tipo LEGO (solo rig de brazos articulados, las ruedas o cadenas será optativo).
+
+
+
+OBJETIVOS:
+
+La calidad del modelo no importa. Pueden utilizarse piezas simples (cubos, cilindros, ...)
+Se valorará la simplicidad del rig planteado. Incorporar las restricciones necesarias para facilitar el control.
+Establecer la posición de reposo del modelo, y realizar un par de movimientos cíclicos sencillos con ayuda de los controles. Entregar cada uno de ellos en un fichero MAX distinto.
+Entregar un pequeño documento explicativo del proceso de construcción del rig y de su uso.
+
+En cualquiera de los modelos se podrá incluir pistones hidráulicos de forma optativa.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+no deben ser personas o robots sencillos)(se le puede añadir todo lo que queramos para controlarlo
+los modelos siempre a base de geometrias simples
+se pueden usar huesos, estructuras jerarquicas y después se le añaden los controles de animacion
+Sólo usar los controles necesarios para la animación. Ej: con un unico control se puede hacer la acción de coger tierra de la excabadora.
+Los ciclos siempre parten del reposo y caban en el reposo.
+Se puede descargar un modelo y crearle el rig.(No se valora la complejidad del modelo, sólo el rig)
+En los parametros de la animacion podemos establecer limites a los objetos. Podemos crear los controladores con sliders.
